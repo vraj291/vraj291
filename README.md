@@ -6,6 +6,10 @@
 👀 - I’m interested in Backend Development <br>
 🌱 - I’m currently learning React.js and Node.js<br>
 :computer: - I'm currently working on HackerMann, an online IDE for pair-programming. <br>
+
+Profile Views<br>
+
+![Visitor Count](https://profile-counter.glitch.me/vraj291/count.svg)
 <br>
 
 ## My Top Langangues
