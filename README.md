@@ -7,10 +7,11 @@
 🌱 - I’m currently learning React.js and Node.js<br>
 :computer: - I'm currently working on HackerMann, an online IDE for pair-programming. <br>
 
-Profile Views<br>
 
-![Visitor Count](https://profile-counter.glitch.me/vraj291/count.svg)
 <br>
+
+
+## Check my [Portfolio Website](https://vraj-parikh.netlify.app) out.
 
 ## My Top Langangues
 <br>
