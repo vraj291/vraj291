@@ -23,6 +23,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=vraj291&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=vraj291&label=You+Are+Visitor+Number&&style=flat-square)
 <!---
 vraj291/vraj291 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
